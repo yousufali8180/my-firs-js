@@ -1,0 +1,14 @@
+var bananaPrice = 12;
+console.log(typeof bananaPrice);
+var mangoPrice = 20;
+console.log(typeof mangoPrice);
+var name = "Md Yousuf ALi";
+console.log(typeof name);
+var name = "Md Atik Aslam";
+console.log(typeof name);
+var isHot = true;
+var atikRich = false;
+console.log(typeof isHot);
+var isLooknice = true;
+var soBad = false;
+console.log(typeof soBad);
