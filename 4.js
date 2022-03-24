@@ -7,4 +7,6 @@ friendage.push(100);
 friendage.push(50); // last a jog hobe
 console.log(friendage.length); 
 friendage.pop(); //last element bad dawya jai
+friendage.shift(15); // Kono element bad dawua jai like kisuta pop ar moto 
+friendage.unshift(400); // just prtome jog hbe
 console.log(friendage);
